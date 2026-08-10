@@ -1,2 +1,0 @@
-name = "raza"
-print (name)
