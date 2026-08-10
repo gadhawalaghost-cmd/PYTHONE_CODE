@@ -1,0 +1,2 @@
+name = "raza"
+print (name)
