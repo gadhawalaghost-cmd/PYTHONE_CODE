@@ -1,2 +1,3 @@
 # PYTHONE_CODE <b>
-# my first repo in github
+# MY PYTHON REPO FOR CODE <b>
+# [0 TO 100],[beginner to advance "LEVEL"]
