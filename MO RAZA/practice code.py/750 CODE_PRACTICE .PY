@@ -160,9 +160,8 @@
 #     else:
 #         print("invalin operation")
 
-
 # a = int(input("enter your first number:"))
 # oprator = input("enter your operator:")
 # b = int(input("enter your second number:"))
 
-# calculator(a, b, oprator)
+# calculator(a, b, oprator).
